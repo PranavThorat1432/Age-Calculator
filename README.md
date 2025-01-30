@@ -48,7 +48,11 @@ The **Age Calculator App** is a simple web-based tool that calculates the exact 
 ---
 
 ## Screenshots  
-![Age Calculator UI](images/screenshot.png)  
+![age1](https://github.com/user-attachments/assets/7bcc428e-1565-4dda-9481-183b8b7dad1d)
+
+![age2](https://github.com/user-attachments/assets/c0e3d0af-ede6-43b7-bc53-a53c78c6f148)
+
+![age3](https://github.com/user-attachments/assets/e7a8ec84-354e-4e16-bc55-1381aff69c01)
 
 ---
 
